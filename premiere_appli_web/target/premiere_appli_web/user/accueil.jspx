@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    Document   : accueil
+    Created on : 20 janv. 2021, 11:47:23
+    Author     : paul
+-->
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page" version="2.0"
+          xmlns:c="http://java.sun.com/jsp/jstl/core">
+
+  
+    <jsp:directive.page contentType="text/html" pageEncoding="UTF-8"/>
+
+    <html>
+        <body>
+            Bienvenue ${user.nom}<br/>
+            ${user.email}
+            <a href="/user/details.jspx"> Details du compte </a>
+        </body>
+    </html>
+
+</jsp:root>

@@ -1,0 +1,11 @@
+authentification.class
+Exo1.class
+fr/insset/paulgilliard/premiere_appli_web/SampleResource.class
+fr/insset/l3/paul/service/ServiceUtilisateur.class
+fr/insset/l3/paul/balise/FormateurDate.class
+fr/insset/paulgilliard/premiere_appli_web/JAXRSConfiguration.class
+fr/insset/l3/paul/controller/Deconnexion.class
+fr/insset/l3/paul/aspect/Securite.class
+fr/insset/l3/paul/aspect/Compteur.class
+fr/insset/l3/paul/controller/login.class
+fr/insset/l3/paul/modele/Utilisateur.class
